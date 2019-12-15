@@ -1,0 +1,30 @@
+我们想要在框架中加入一个叫做list.htm的文件，应该在HTML中如何描述它？
+framepage=“list.htm“
+frametarget=“list.htm“
+framesrc=“list.htm“
+frameframepage=“list.htm“
+2
+以下的CSS中，可使所有<p>元素变为粗体的正确语法是?
+<p style=“font-size:bold“>
+<p style=“text-size:bold“>
+p{font-weight:bold} 
+p {text-size:bold}
+2
+下列哪种CSS样式定义的方式拥有最高的优先级？
+嵌入
+行内
+链接
+导入
+1
+以下的哪一种颜色格式支持上百万种颜色，但是不支持无损压缩？
+bmp
+jpg
+gif
+tif
+0
+下面关闭名为mydiv的层的代码正确的是
+document.getElementById(mydiv).style.display="none"; 
+document.getElementById("mydiv").style.display=none;
+document.getElementById("mydiv").style.display="none";
+document.getElementById("mydiv").style.display=="none"; 
+2
